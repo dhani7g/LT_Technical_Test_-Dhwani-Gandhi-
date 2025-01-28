@@ -1,0 +1,10 @@
+Add the question text for Question 2 in the README.md file.
+● Include the dataset you used for solving the question in CSV or JSON file.
+● Add the Python script or use the appropriate extension based on the framework or
+library used, such as .ipynb for Jupyter Notebooks for the code solution you wrote for
+a given question.
+● If applicable, add a short explanation of your approach in a README.md file.
+
+
+FOR THE DATASET :
+I  have imported publicly available california housing  dataset in google colab. 
